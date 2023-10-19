@@ -1,4 +1,4 @@
-var nome = "canteta";
+var nome = "caneta";
 var quantidade = 10;
 var preco = 6.40;
 let imposto = 1.50;
